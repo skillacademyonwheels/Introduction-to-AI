@@ -20,6 +20,7 @@ conversation_history = []
 # - Sentiment counters (`positive_count`, `negative_count`, `neutral_count`) to track sentiment trends
 positive_count = 0
 negative_count = 0
+neutral_count = 0
 
 # Define a function to simulate a processing animation
 def loading_dots():
