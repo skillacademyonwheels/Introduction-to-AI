@@ -30,7 +30,7 @@ for i in range(5):  # You can change the range to display more images (e.g., 10 
     plt.title(f"Predicted: {y_pred[i]}, Actual: {y_test.iloc[i]}")
     plt.show()
 
-
+# https://colab.research.google.com/drive/1kCRhGqHd_Gp5Gv-mhl-1dDuigwbp-bh2?usp=sharing
 
 # import numpy as np
 # import matplotlib.pyplot as plt
